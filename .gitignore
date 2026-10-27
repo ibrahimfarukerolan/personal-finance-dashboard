@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Environment variables
+.env
+.env.*
+
+# Private financial data
+data/private/
+private_transactions.csv
